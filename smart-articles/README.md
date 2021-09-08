@@ -83,4 +83,3 @@ LOads the created application
 #### .env file 
 for hiding the API key, add it in the .gitignore file as well
 
-### https://api.nytimes.com/svc/search/v2/articlesearch.json?q=election&api-key=yourkey
